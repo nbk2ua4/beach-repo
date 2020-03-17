@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-09-08T03:14:53Z</date>
+	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>7A43B3402A1539FB</string>
+	<key>Tracks</key>
+	<dict>
+		<key>91</key>
+		<dict>
+			<key>Track ID</key><integer>91</integer>
+			<key>Name</key><string>New Recording</string>
+			<key>Artist</key><string>Yolanda's iPhone</string>
+			<key>Album</key><string>Voice Memos</string>
+			<key>Genre</key><string>Voice Memo</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4252716</integer>
+			<key>Total Time</key><integer>516781</integer>
+			<key>Date Modified</key><date>2017-05-20T03:17:56Z</date>
+			<key>Date Added</key><date>2017-05-20T03:20:57Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CF4B441B5163565D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Voice%20Memos/20160507%20083804.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>93</key>
+		<dict>
+			<key>Track ID</key><integer>93</integer>
+			<key>Name</key><string>Appt With Dr. Swan</string>
+			<key>Artist</key><string>Yolanda's iPhone</string>
+			<key>Album</key><string>Voice Memos</string>
+			<key>Genre</key><string>Voice Memo</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10465171</integer>
+			<key>Total Time</key><integer>1304403</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-08-17T16:50:40Z</date>
+			<key>Date Added</key><date>2017-05-20T03:20:57Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-08-17T16:28:19Z</date>
+			<key>Persistent ID</key><string>77208C5852630509</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Voice%20Memos/20160817%20092819.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>95</key>
+		<dict>
+			<key>Track ID</key><integer>95</integer>
+			<key>Name</key><string>New Recording 2</string>
+			<key>Artist</key><string>Yolanda's iPhone</string>
+			<key>Album</key><string>Voice Memos</string>
+			<key>Genre</key><string>Voice Memo</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>32462102</integer>
+			<key>Total Time</key><integer>3964713</integer>
+			<key>Date Modified</key><date>2017-05-20T03:17:56Z</date>
+			<key>Date Added</key><date>2017-05-20T03:20:57Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4162F25768B51A9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Voice%20Memos/20170318%20152638.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>97</key>
+		<dict>
+			<key>Track ID</key><integer>97</integer>
+			<key>Name</key><string>star wars cat parody </string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>129128</integer>
+			<key>Total Time</key><integer>7168</integer>
+			<key>Date Modified</key><date>2017-10-17T00:04:52Z</date>
+			<key>Date Added</key><date>2017-10-17T00:05:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1049</integer>
+			<key>Persistent ID</key><string>2F52B5A63B57186D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/star%20wars%20cat%20parody.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>99</key>
+		<dict>
+			<key>Track ID</key><integer>99</integer>
+			<key>Name</key><string>star wars theme song</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>212520</integer>
+			<key>Total Time</key><integer>11081</integer>
+			<key>Date Modified</key><date>2017-10-17T00:05:54Z</date>
+			<key>Date Added</key><date>2017-10-17T00:05:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1049</integer>
+			<key>Persistent ID</key><string>6D3DD53327DF1D54</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/star%20wars%20theme%20song.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>101</key>
+		<dict>
+			<key>Track ID</key><integer>101</integer>
+			<key>Name</key><string>Feel It Still</string>
+			<key>Artist</key><string>Portugal. The Man</string>
+			<key>Album Artist</key><string>Portugal. The Man</string>
+			<key>Composer</key><string>Portugal. The Man, Asa Taccone, John Hill, Brian Holland, Frederick Gorman &#38; Robert Bateman</string>
+			<key>Album</key><string>Woodstock</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5942393</integer>
+			<key>Total Time</key><integer>163268</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-28T00:50:09Z</date>
+			<key>Date Added</key><date>2017-10-28T00:50:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3595237793</integer>
+			<key>Play Date UTC</key><date>2017-12-04T21:09:53Z</date>
+			<key>Release Date</key><date>2017-03-03T08:00:00Z</date>
+			<key>Normalization</key><integer>3522</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7819FA01C3859DE4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/Portugal.%20The%20Man/Woodstock/04%20Feel%20It%20Still.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>103</key>
+		<dict>
+			<key>Track ID</key><integer>103</integer>
+			<key>Name</key><string>(I've Had) The Time of My Life</string>
+			<key>Artist</key><string>Bill Medley &#38; Jennifer Warnes</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Frank Previte, John DeNicola &#38; Donald Markowitz</string>
+			<key>Album</key><string>Dirty Dancing (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10547307</integer>
+			<key>Total Time</key><integer>290333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2017-11-12T02:17:13Z</date>
+			<key>Date Added</key><date>2017-11-12T01:55:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1987-07-10T07:00:00Z</date>
+			<key>Normalization</key><integer>1257</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dirty Dancing (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Bill Medley &#38; Jennifer Warnes</string>
+			<key>Sort Name</key><string>(I've Had) The Time of My Life</string>
+			<key>Persistent ID</key><string>4FD88D60658584B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/Compilations/Dirty%20Dancing%20(Original%20Motion%20Picture%20Soundtrack)/01%20(I've%20Had)%20The%20Time%20of%20My%20Life.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>105</key>
+		<dict>
+			<key>Track ID</key><integer>105</integer>
+			<key>Name</key><string>Don't Stop Believin'</string>
+			<key>Artist</key><string>Journey</string>
+			<key>Album Artist</key><string>Journey</string>
+			<key>Composer</key><string>S. Perry, N. Schon &#38; J. Cain</string>
+			<key>Album</key><string>Escape</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8964301</integer>
+			<key>Total Time</key><integer>250986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2017-11-12T02:17:12Z</date>
+			<key>Date Added</key><date>2017-11-12T01:53:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1981-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>2583</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Escape</string>
+			<key>Sort Artist</key><string>Journey</string>
+			<key>Sort Name</key><string>Don't Stop Believin'</string>
+			<key>Persistent ID</key><string>B5F42F444D6C8DCE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/Journey/Escape/01%20Don't%20Stop%20Believin'.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>107</key>
+		<dict>
+			<key>Track ID</key><integer>107</integer>
+			<key>Name</key><string>Good Riddance (Time of Your Life)</string>
+			<key>Artist</key><string>Green Day</string>
+			<key>Album Artist</key><string>Green Day</string>
+			<key>Composer</key><string>Green Day</string>
+			<key>Album</key><string>Nimrod</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5811683</integer>
+			<key>Total Time</key><integer>154680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-11-12T02:17:12Z</date>
+			<key>Date Added</key><date>2017-11-12T01:56:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1997-10-13T07:00:00Z</date>
+			<key>Normalization</key><integer>2655</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nimrod</string>
+			<key>Sort Artist</key><string>Green Day</string>
+			<key>Sort Name</key><string>Good Riddance (Time of Your Life)</string>
+			<key>Persistent ID</key><string>E1B3113DC818AE05</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/Green%20Day/Nimrod/17%20Good%20Riddance%20(Time%20of%20Your%20Life).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>109</key>
+		<dict>
+			<key>Track ID</key><integer>109</integer>
+			<key>Name</key><string>I Will Survive</string>
+			<key>Artist</key><string>Gloria Gaynor</string>
+			<key>Album Artist</key><string>Gloria Gaynor</string>
+			<key>Album</key><string>I Am What I Am</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7891833</integer>
+			<key>Total Time</key><integer>226266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-11-12T02:17:11Z</date>
+			<key>Date Added</key><date>2017-11-12T01:50:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1975-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>2679</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Am What I Am</string>
+			<key>Sort Artist</key><string>Gloria Gaynor</string>
+			<key>Sort Name</key><string>I Will Survive</string>
+			<key>Persistent ID</key><string>8FA74FA4D55A6098</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/Gloria%20Gaynor/I%20Am%20What%20I%20Am/04%20I%20Will%20Survive.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>111</key>
+		<dict>
+			<key>Track ID</key><integer>111</integer>
+			<key>Name</key><string>My Life</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album Artist</key><string>Billy Joel</string>
+			<key>Composer</key><string>Billy Joel</string>
+			<key>Album</key><string>52nd Street</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9860058</integer>
+			<key>Total Time</key><integer>285009</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2017-11-12T02:17:10Z</date>
+			<key>Date Added</key><date>2017-11-12T01:49:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1978-10-12T07:00:00Z</date>
+			<key>Normalization</key><integer>2799</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>52nd Street</string>
+			<key>Sort Artist</key><string>Billy Joel</string>
+			<key>Sort Name</key><string>My Life</string>
+			<key>Persistent ID</key><string>A58E8C410D902805</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/Billy%20Joel/52nd%20Street/03%20My%20Life.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>113</key>
+		<dict>
+			<key>Track ID</key><integer>113</integer>
+			<key>Name</key><string>Humble and Kind</string>
+			<key>Artist</key><string>Tim McGraw</string>
+			<key>Album Artist</key><string>Tim McGraw</string>
+			<key>Composer</key><string>Lori McKenna</string>
+			<key>Album</key><string>Damn Country Music (Deluxe Edition)</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9016585</integer>
+			<key>Total Time</key><integer>260027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-11-12T02:17:14Z</date>
+			<key>Date Added</key><date>2017-11-12T02:03:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-06T08:00:00Z</date>
+			<key>Normalization</key><integer>3018</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Damn Country Music (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Tim McGraw</string>
+			<key>Sort Name</key><string>Humble and Kind</string>
+			<key>Persistent ID</key><string>6DA01E6B0D3457DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/Tim%20McGraw/Damn%20Country%20Music%20(Deluxe%20Edition)/11%20Humble%20and%20Kind.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>115</key>
+		<dict>
+			<key>Track ID</key><integer>115</integer>
+			<key>Name</key><string>The Imperial March</string>
+			<key>Artist</key><string>John Williams, Charles Gerhardt &#38; National Philharmonic Orchestra</string>
+			<key>Album Artist</key><string>John Williams, National Philharmonic Orchestra &#38; Charles Gerhardt</string>
+			<key>Composer</key><string>John Williams</string>
+			<key>Album</key><string>The Empire Strikes Back (Symphonic Suite From the Original Motion Picture Score)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7899518</integer>
+			<key>Total Time</key><integer>201360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2017-11-13T02:27:06Z</date>
+			<key>Date Added</key><date>2017-11-13T02:22:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1980-01-01T08:00:00Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Empire Strikes Back (Symphonic Suite From the Original Motion Picture Score)</string>
+			<key>Sort Artist</key><string>John Williams, Charles Gerhardt &#38; National Philharmonic Orchestra</string>
+			<key>Sort Name</key><string>Imperial March</string>
+			<key>Persistent ID</key><string>02A0A05E1CE5DBC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Music/John%20Williams,%20National%20Philharmonic%20Orchestra%20&#38;%20Charles%20Gerhardt/The%20Empire%20Strikes%20Back%20(Symphonic%20Suite%20From%20the%20Original%20Motion%20Picture%20Score)/08%20The%20Imperial%20March.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>465</key>
+		<dict>
+			<key>Track ID</key><integer>465</integer>
+			<key>Name</key><string>New Recording</string>
+			<key>Artist</key><string>Yolanda's iPhone</string>
+			<key>Album</key><string>Voice Memos</string>
+			<key>Genre</key><string>Voice Memo</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>21025739</integer>
+			<key>Total Time</key><integer>2619455</integer>
+			<key>Date Modified</key><date>2018-05-11T12:48:42Z</date>
+			<key>Date Added</key><date>2018-09-08T03:11:36Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>18B3493CD3D10894</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Voice%20Memos/20180511%20050414.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>471</key>
+		<dict>
+			<key>Track ID</key><integer>471</integer>
+			<key>Name</key><string>Product Mat. Doesn't Match</string>
+			<key>Artist</key><string>Yolanda's iPhone</string>
+			<key>Album</key><string>Voice Memos</string>
+			<key>Genre</key><string>Voice Memo</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>25394305</integer>
+			<key>Total Time</key><integer>3162601</integer>
+			<key>Date Modified</key><date>2018-05-10T13:48:54Z</date>
+			<key>Date Added</key><date>2018-09-08T03:11:36Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>D8DCE5A18EDE2A3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/yolandalizardi/Music/iTunes/iTunes%20Media/Voice%20Memos/20180510%20053457.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>117</integer>
+			<key>Playlist Persistent ID</key><string>4AA4EAC9692613E6</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>133</integer>
+			<key>Playlist Persistent ID</key><string>A6696DA5FEBE1BD8</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>149</integer>
+			<key>Playlist Persistent ID</key><string>0FBEAB5A7C08A790</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>174</integer>
+			<key>Playlist Persistent ID</key><string>BD7D27FCCE87D2C5</string>
+			<key>Distinguished Kind</key><integer>66</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>177</integer>
+			<key>Playlist Persistent ID</key><string>7D7AEFC726356F63</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>183</integer>
+			<key>Playlist Persistent ID</key><string>876468175484C8DC</string>
+			<key>Distinguished Kind</key><integer>67</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>186</integer>
+			<key>Playlist Persistent ID</key><string>85F829EF9E5233AA</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>189</integer>
+			<key>Playlist Persistent ID</key><string>3E17A483FF419A07</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Audiobooks</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>196</integer>
+			<key>Playlist Persistent ID</key><string>F089D89F3E00B42A</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>199</integer>
+			<key>Playlist Persistent ID</key><string>3B9820E852A1FB62</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Purchased</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>202</integer>
+			<key>Playlist Persistent ID</key><string>A80DE16EBC9EF1EB</string>
+			<key>Distinguished Kind</key><integer>19</integer>
+			<key>Purchased Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>90’s Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>213</integer>
+			<key>Playlist Persistent ID</key><string>17B41316D549169F</string>
+			<key>Distinguished Kind</key><integer>200</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Classical Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>217</integer>
+			<key>Playlist Persistent ID</key><string>0B79615F06013472</string>
+			<key>Distinguished Kind</key><integer>206</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVxTTHN0AAEAAQAAABEAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAASwBsAGEAcwBzAGkAcwBrAAAACAEAAAEAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQwBsAOEAcwBz
+			AGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABIASwBsAGEAcwBzAGkAcwBrAHQAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQaBDsEMARBBEEEOARHBDUEQQQ6BDAETwAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+			AEsAbABhAHMAeQBjAHoAbgBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABIASwBsAGEAcwBzAGkAbgBlAG4AAAAIAQAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABLAGwAYQBzAGkAawAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU
+			AEsAbABhAHMAcwB6AGkAawB1AHMAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBWAOEBfgBuAOEAIABoAHUAZABiAGEAAAAIAQAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZDBkQGJwYz
+			BkoGQwZK
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>My Top Rated</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>220</integer>
+			<key>Playlist Persistent ID</key><string>27EF5771CA284268</string>
+			<key>Distinguished Kind</key><integer>201</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Added</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>223</integer>
+			<key>Playlist Persistent ID</key><string>244775EF8F15C257</string>
+			<key>Distinguished Kind</key><integer>204</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Played</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>226</integer>
+			<key>Playlist Persistent ID</key><string>0983653A67F54F95</string>
+			<key>Distinguished Kind</key><integer>203</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Top 25 Most Played</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>229</integer>
+			<key>Playlist Persistent ID</key><string>DED83F919FDE5D37</string>
+			<key>Distinguished Kind</key><integer>202</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Spoken Text</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>233</integer>
+			<key>Playlist Persistent ID</key><string>FDFAFDED205AB185</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Voice Memos</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>244</integer>
+			<key>Playlist Persistent ID</key><string>39A0A6C17783B7C2</string>
+			<key>Distinguished Kind</key><integer>17</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
